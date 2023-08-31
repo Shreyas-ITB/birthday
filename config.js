@@ -3,12 +3,12 @@ var config = {
     // Try to keep each sentence under 15 characters, or the display might not be optimal
     texts: [
         "To my",
-        "beloved Shreyas,",
+        "beloved friend Nithin!!!,",
         "Today is your birthday,",
-        "This marks the",
-        "first birthday on which we are meeting!",
-        "You don't know me and I don't know you but,",
-        "since we share the same name, we just became friends!",
+        "So i coded this website myself",
+        "Just to make u a bit happy and cheerful!",
+        "It took 4 hours and 52 mins exactly to code this 😞,",
+        "Lead the college CR life with ez bro! and again,",
         "Happy Birthday from my side!",
         "Stay happy and stay blessed.",
         "Have fun today machaaa!",
