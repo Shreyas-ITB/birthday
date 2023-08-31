@@ -24,8 +24,8 @@ var config = {
      * Tip: Images should preferably be square or close to square for better visual effect
      */
     imgs: {
-        // "beloved sweetheart": "./imgs/xiaokeai.png",
-        // "Today is your birthday": "./imgs/birthday.jpg",
+        "beloved friend Nithin!!!": "./imgs/nitthin1 (1).png",
+        "Today is your birthday": "./imgs/nitthin1 (2).png",
     },
     // Button text descriptions, the following are the default English button texts; you can change them to your preferred words
     desc: {
